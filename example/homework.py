@@ -8,7 +8,7 @@ class Encrypt:
 
    def setcode(self):
       # 取得 a 、 b 值
-      
+
       a = random.randint(0, 9)
       #print(a) # 印出 a
       b = random.randint(0, 9)
